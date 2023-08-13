@@ -17,7 +17,7 @@ const Card = (ph) => {
           </h2>
           <p>This is an authentic product.</p>
           <div className="card-actions justify-end">
-            <button>Hola</button>
+            <button className="btn btn-outline btn-primary">Add to cart</button>
           </div>
         </div>
       </div>
